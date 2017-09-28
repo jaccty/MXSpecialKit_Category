@@ -1,0 +1,6 @@
+framework module Pods_MXSpecialKit_Category_Example {
+  umbrella header "Pods-MXSpecialKit_Category_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

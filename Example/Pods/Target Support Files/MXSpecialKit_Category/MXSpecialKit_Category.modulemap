@@ -1,0 +1,6 @@
+framework module MXSpecialKit_Category {
+  umbrella header "MXSpecialKit_Category-umbrella.h"
+
+  export *
+  module * { export * }
+}

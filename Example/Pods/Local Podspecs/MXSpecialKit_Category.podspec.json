@@ -1,0 +1,30 @@
+{
+  "name": "MXSpecialKit_Category",
+  "version": "1",
+  "summary": "A short description of MXSpecialKit_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jaccty/MXSpecialKit_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "848941531@qq.com": "848941531@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jaccty/MXSpecialKit_Category.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MXSpecialKit_Category/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ],
+    "MXAPIsKit": [
+
+    ]
+  }
+}
