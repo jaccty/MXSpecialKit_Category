@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MXSpecialKit_Category'
-  s.version          = '1'
+  s.version          = '3'
   s.summary          = 'A short description of MXSpecialKit_Category.'
 
 # This description is used to generate tags and improve search results.

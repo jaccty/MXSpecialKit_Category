@@ -13,7 +13,7 @@
 
 #import <MXAPIsKit/APIRequest.h>
 
-#import <MXAPIsKit/FFReformProtocol.h>
+//#import <MXAPIsKit/FFReformProtocol.h>
 
 @interface CTMediator (Special)
     
